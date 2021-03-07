@@ -1,4 +1,5 @@
 
+# Mean-Variance-Standard-Deviation-Calculator
 
 Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. 
 
@@ -41,6 +42,4 @@ For development, you can use `main.py` to test your `calculate()` function. Clic
 We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
 
 
-
-# Mean-Variance-Standard-Deviation-Calculator
 # Mean-Variance-Standard-Deviation-CalculatorPassed
